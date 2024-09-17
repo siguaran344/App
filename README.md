@@ -9,18 +9,16 @@ Esta app se crea con el fin de que los artistas, diseñadores gráficos e inclus
 
 ***Hardware y Sensores***
 
-Cámara: Este factor es relevante puesto que es esencial para capturar la imagen del color que se desea analizar, además de que la calidad de la imagen afectará la precisión a la hora de analizar los colores que compondrán al de la captura.
+**Cámara:** Este factor es relevante puesto que es esencial para capturar la imagen del color que se desea analizar, además de que la calidad de la imagen afectará la precisión a la hora de analizar los colores que compondrán al de la captura.
 
 **Memoria (RAM y Almacenamiento Interno):**
 
 •	**RAM:** Era necesario puesto que es crucial para el buen manejo de los datos de la imagen y a la hora de realizar correctamente los cálculos necesarios para el análisis.
 •**Almacenamiento Interno:** Importante a la hora de guardar la aplicación dentro del dispositivo móvil, además de guardar las capturas y cualquier otra información dada por la app, ya sea de manera temporal o permanente.
 
-**Procesador (CPU y GPU):**
-El sistema de procesadores es relevante puesto que el análisis de las imágenes y colores requiere de realizar un análisis de datos, por lo que al utilizar un procesador esté ayudará a que los cálculos se realicen de manera más rápida y eficiente.
+**Procesador (CPU y GPU):** El sistema de procesadores es relevante puesto que el análisis de las imágenes y colores requiere de realizar un análisis de datos, por lo que al utilizar un procesador esté ayudará a que los cálculos se realicen de manera más rápida y eficiente.
 
-**Conectividad:**
-Ayuda a la hora de obtener una variedad más amplia de información sobre las posibles combinaciones de colores que se pueden realizar.
+**Conectividad:** Ayuda a la hora de obtener una variedad más amplia de información sobre las posibles combinaciones de colores que se pueden realizar.
 
 
 
