@@ -3,6 +3,7 @@
 La idea consiste en crear una aplicación que permite subir una imagen o tomar una foto de un color el cual este compuesto de diversa tonalidad (entiéndase tonalidades como los colores primarios, secundarios y terciarios), para que posteriormente la app analice la imagen y muestre los componentes que constituyen dicha imagen, además esta podrá mostrar un listado de las diversas tonalidades que combinan con el de la imagen.
 
 ***Problemática***
+
 Esta app se crea con el fin de que los artistas, diseñadores gráficos e incluso los mismos desarrolladores tengan una herramienta con la cual se les haga más sencillo la creación visual de bocetos, páginas web, animaciones, etc.
 
 
