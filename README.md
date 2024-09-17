@@ -14,6 +14,7 @@ Esta app se crea con el fin de que los artistas, diseñadores gráficos e inclus
 **Memoria (RAM y Almacenamiento Interno):**
 
 •	**RAM:** Era necesario puesto que es crucial para el buen manejo de los datos de la imagen y a la hora de realizar correctamente los cálculos necesarios para el análisis.
+
 •**Almacenamiento Interno:** Importante a la hora de guardar la aplicación dentro del dispositivo móvil, además de guardar las capturas y cualquier otra información dada por la app, ya sea de manera temporal o permanente.
 
 **Procesador (CPU y GPU):** El sistema de procesadores es relevante puesto que el análisis de las imágenes y colores requiere de realizar un análisis de datos, por lo que al utilizar un procesador esté ayudará a que los cálculos se realicen de manera más rápida y eficiente.
